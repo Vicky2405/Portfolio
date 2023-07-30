@@ -595,6 +595,7 @@ h2 span{
 	text-align: center;
 	border: .2rem solid var(--bg-color);
 	transition: .5s ease;
+	height: fit-content;
 }
 
 .education-container .education-box:hover{
@@ -614,6 +615,7 @@ h2 span{
 .education-box p{
 	font-size: 20px;
 	margin: 1rem 0 3rem;
+	line-height: 32px;
 }
 
 .contact h2{
@@ -1265,6 +1267,7 @@ h2 span{
 		justify-content: center;
 		margin-left: 90px;
 	}
+	
 
 	section .heading{
 		font-size: 37px;
