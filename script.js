@@ -48,7 +48,7 @@ ScrollReveal().reveal('.contact-container, .education-container, .projects-conta
 
 // typed js
 const typed=new Typed('.multiple-text',{
-	strings:[' Frontend Developer. ' ,' Photographer.', ' Gamer.'],
+	strings:[' Frontend Developer. ' ,' Software Developer.' ,' Photographer.'],
 	typeSpeed:100,
 	backSpeed:100,
 	backDelay:100,
